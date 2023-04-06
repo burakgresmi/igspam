@@ -1,4 +1,4 @@
-IG - SPAM Telegram Aracı
+IG - SPAM Termux Aracı
 
 KURULUM:
 
