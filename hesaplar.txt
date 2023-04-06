@@ -1,0 +1,15 @@
+Buraya kullanmadığınız ve spam atılacak
+hesabın 
+kullanıcı adı ve şifresini gireceksiniz.
+
+Kullanıcı adı yazdıktan sonra bi boşluk bırakıp
+şifreyi yazınız.
+
+2. Hesap eklemek isterseniz bi alt satıra geçin
+ve tekrar kullanıcı adı + boşluk + şifre yazınız.
+
+Şimdi bu alanı silin ve hesaplarınızı girebilirsiniz.
+
+Coded by Burak Gökkaya | @burakgresmi
+
+SAYGILARIMLA...
