@@ -28,6 +28,7 @@ sonra tekrardan
 $ python igspam.py yapıp saldırıyı 
 başlatabilirsiniz..
 
+USER ID BULMAK İÇİN https://www.instafollowers.co/find-instagram-user-id
 NE KADAR ÇOK HESAP EKLERSENİZ HESABIN
 KAPANMA OLASILIĞI ARTAR.
 
